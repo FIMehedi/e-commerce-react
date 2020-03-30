@@ -1,0 +1,29 @@
+.logo{
+    margin: 0 auto;
+    width: 250px;
+}
+.navbar{
+    background-color: black;
+}
+.nav-link{
+    font-weight: bold;
+    color: white !important;
+    margin-left: 20px;
+}
+.cart-count{
+    color: white;
+}
+.cart-count span{
+    color: #f9982e;
+    font-weight: bold;
+}
+.search{
+    background: rgb(235, 232, 232);
+}
+.user a{
+    color: white;
+    font-weight: bold;
+}
+.user a{
+    text-decoration: none;
+}

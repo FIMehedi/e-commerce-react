@@ -1,0 +1,14 @@
+.product-details img{
+    box-shadow: 5px 10px 20px lightgray;
+    transition: transform .5s;
+}
+.product-details img:hover{
+    transform: scale(1.09)
+}
+.product-details span{
+    color: gray;
+}
+.specification h4{
+    border-bottom: 2px solid lightgray;
+    padding-bottom: 5px;
+}

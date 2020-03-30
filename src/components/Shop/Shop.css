@@ -1,0 +1,21 @@
+.main-btn{
+    background-color: #f9982e;
+    color: white;
+    padding: 5px 30px;
+}
+.product-summary p{
+    color: gray;
+    margin: 5px 0;
+}
+.product{
+    border: 1px solid lightgray;
+}
+.cart{
+    border: 1px solid lightgray;
+}
+.cart p{
+    margin: 10px 0;
+}
+.cart span{
+    float: right;
+}
